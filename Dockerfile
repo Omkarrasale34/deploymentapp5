@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: omkar5866/testforactions:latest
+        tags: omkar5866/deploymentapp5:latest
